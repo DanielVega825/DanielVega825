@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre mí
 
-[cite_start]Soy **Ingeniero de Sistemas** y **Desarrollador Full Stack Junior** enfocado en crear soluciones eficientes y escalables. [cite_start]Cuento con experiencia sólida en el ecosistema **Java/Spring Boot** para el backend y tecnologías modernas de frontend, además de una formación especializada en **servicios en la nube (AWS)**[cite: 3, 5, 26].
+Soy **Ingeniero de Sistemas** y **Desarrollador Full Stack Junior** enfocado en crear soluciones eficientes y escalables. Cuento con experiencia sólida en el ecosistema **Java/Spring Boot** para el backend y tecnologías modernas de frontend, además de una formación especializada en **servicios en la nube (AWS)**.
 
 * 🔭 Actualmente enfocado en el desarrollo de arquitecturas robustas y APIs RESTful.
 * ⚙️ Especialista en optimización de servicios mediante el uso de **Docker**, **Nginx** y automatización de procesos.
