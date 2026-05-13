@@ -1,13 +1,15 @@
 <h2 align="left">Hi 👋! My name is Daniel Vega</h2>
 
+<img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2s2dWc0NjY3cTQ4a21wdGJldTUxcmxvejN1a25jaWtmcnprMmptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif"  />
+
 ### 🚀 Sobre mí
 
 [cite_start]Soy **Ingeniero de Sistemas** y **Desarrollador Full Stack Junior** enfocado en crear soluciones eficientes y escalables. [cite_start]Cuento con experiencia sólida en el ecosistema **Java/Spring Boot** para el backend y tecnologías modernas de frontend, además de una formación especializada en **servicios en la nube (AWS)**[cite: 3, 5, 26].
 
-* [cite_start]🔭 Actualmente enfocado en el desarrollo de arquitecturas robustas y APIs RESTful[cite: 5, 6].
-* [cite_start]⚙️ Especialista en optimización de servicios mediante el uso de **Docker**, **Nginx** y automatización de procesos[cite: 17, 19, 27].
-* [cite_start]☁️ Certificado en **AWS Re/Start**, con manejo de EC2, S3 y RDS[cite: 11, 26].
-* [cite_start]🌱 Aprendizaje continuo en Big Data, Inteligencia Artificial y Cloud Computing[cite: 29, 30, 31].
+* 🔭 Actualmente enfocado en el desarrollo de arquitecturas robustas y APIs RESTful.
+* ⚙️ Especialista en optimización de servicios mediante el uso de **Docker**, **Nginx** y automatización de procesos.
+* ☁️ Certificado en **AWS Re/Start con certifiación (AWS CLOUD PRACTITIONER)**, con manejo de EC2, S3 y RDS.
+* 🌱 Aprendizaje continuo en Big Data, Inteligencia Artificial y Cloud Computing.
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -35,11 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
 </div>
 
-### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-ve-li&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
 
 ### 📫 Contacto
 
