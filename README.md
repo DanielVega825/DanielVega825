@@ -48,7 +48,7 @@ Soy **Ingeniero de Sistemas** y **Desarrollador Full Stack Junior** enfocado en 
   <a href="https://www.linkedin.com/in/daniel-ve-li">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="[TU_LINK_DE_PORTAFOLIO]">
+  <a href="https://portfolio-daniel-vega.netlify.app/#/contacto">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
 </div>
